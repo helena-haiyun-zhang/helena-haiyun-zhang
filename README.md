@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there!
 
-<!--
-**helena-haiyun-zhang/helena-haiyun-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently doing a major in Computer Science and a minor in interdisciplinary Life Sciences. As an enthusiastic developer, I like to explore and expereiment with new technologies to develop my skillset.
 
-Here are some ideas to get you started:
+My passions: 
+🌐 JavaScript/Typescript and Web Development 
+🚔 COP SHOWS! 
+🧵 Sewing 
+🎨 Painting
+🪙 Currently developing a simple Bitcoin Wallet 
+📍 Toronto/Montreal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Please reach out to me: https://www.linkedin.com/in/helena-haiyun-zhang/
