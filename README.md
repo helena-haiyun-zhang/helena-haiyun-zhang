@@ -1,14 +1,13 @@
 Hi there!
 
-I’m currently doing a major in Computer Science and a minor in interdisciplinary Life Sciences. As an enthusiastic developer, I like to explore and expereiment with new technologies to develop my skillset.
+I’ve graduated from my major in Computer Science and a minor in interdisciplinary Life Sciences from McGill University, in Montreal. As an enthusiastic developer, I like to explore and experiment with new technologies to develop my skillset.
   
 My passions:  
 
-🌐 JavaScript/Typescript and Web Development   
-🚔 COP SHOWS!  
+🌐 All things Cloud! Currently working on learning AWS 
+🚔 COP SHOWS!!
 🧵 Sewing   
-🎨 Painting    
-🪙 Currently developing a simple Bitcoin Wallet     
+🎨 Painting       
 📍 Toronto/Montreal    
 
 Please reach out to me: https://www.linkedin.com/in/helena-haiyun-zhang/
