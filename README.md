@@ -5,7 +5,7 @@ I’ve graduated from my major in Computer Science and a minor in interdisciplin
 My passions:  
 
 🌐 All things Cloud! Currently working on learning AWS 
-🚔 COP SHOWS!!
+🚔 COP SHOWS!!                  
 🧵 Sewing   
 🎨 Painting       
 📍 Toronto/Montreal    
